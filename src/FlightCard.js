@@ -2,7 +2,7 @@ import React from "react";
 
 export default function FlightCard({ flight }) {
   return (
-    <div>
+    <div style={{ border: "2px solid green", marginBottom: "2px" }}>
       <label>Flight no:</label>
       <span>{flight.flightNo}</span>
       &nbsp;
