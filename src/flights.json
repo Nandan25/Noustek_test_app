@@ -1,0 +1,102 @@
+[
+  {
+    "arrivalTime": "6:00",
+    "date": "2021-11-12",
+    "departureTime": "5:00",
+    "destination": "Mumbai",
+    "flightNo": "AI-112",
+    "name": "Air India",
+    "source": "Pune",
+    "price": 3525
+  },
+  {
+    "arrivalTime": "6:00",
+    "date": "2021-11-12",
+    "departureTime": "5:00",
+    "destination": "Mumbai",
+    "flightNo": "AI-112",
+    "name": "Air India",
+    "source": "Goa",
+    "price": 1800
+  },
+  {
+    "arrivalTime": "9:50",
+    "date": "2021-11-12",
+    "departureTime": "7:20",
+    "destination": "Delhi ",
+    "flightNo": "AI-102",
+    "name": "Air India",
+    "source": "Mumbai",
+    "price": 5635
+  },
+  {
+    "arrivalTime": "7:10",
+    "date": "2021-11-12",
+    "departureTime": "6:10",
+    "destination": "Mumbai",
+    "flightNo": "AI-103",
+    "name": "Air India",
+    "source": "Pune",
+    "price": 2537
+  },
+  {
+    "arrivalTime": "10:20",
+    "date": "2021-11-12",
+    "departureTime": "8:10",
+    "destination": "Delhi ",
+    "flightNo": "AI-104",
+    "name": "Air India",
+    "source": "Pune",
+    "price": 4681
+  },
+  {
+    "arrivalTime": "9:15",
+    "date": "2021-11-12",
+    "departureTime": "8:15",
+    "destination": "Bengaluru",
+    "flightNo": "SJ-105",
+    "name": "SpiceJet",
+    "source": "Pune",
+    "price": 3549
+  },
+  {
+    "arrivalTime": "13:00",
+    "date": "2021-11-12",
+    "departureTime": "11:00",
+    "destination": "Delhi",
+    "flightNo": "SJ-106",
+    "name": "SpiceJet",
+    "source": "Bengaluru",
+    "price": 5645
+  },
+  {
+    "arrivalTime": "10:00",
+    "date": "2021-11-12",
+    "departureTime": "8:00",
+    "destination": "Delhi",
+    "flightNo": "SJ-107",
+    "name": "SpiceJet",
+    "source": "Bengaluru",
+    "price": 5000
+  },
+  {
+    "arrivalTime": "10:30",
+    "date": "2021-11-12",
+    "departureTime": "8:00",
+    "destination": "Bengaluru",
+    "flightNo": "TW-108",
+    "name": "Air Taiwan",
+    "source": "Mumbai",
+    "price": 4004
+  },
+  {
+    "arrivalTime": "15:30",
+    "date": "2021-11-12",
+    "departureTime": "12:00",
+    "destination": "Delhi",
+    "flightNo": "TW-109",
+    "name": "Air Taiwan",
+    "source": "Bengaluru",
+    "price": 3495
+  }
+]
